@@ -5,10 +5,10 @@ int main()
 {    
     int divisor, dividend, quotient, remainder;
 
-    cout << "Enter dividend: ";
+    cout << "Enter dividend: of the number ";
     cin >> dividend;
 
-    cout << "Enter divisor: ";
+    cout << "Enter divisor:  of the number";
     cin >> divisor;
 
     quotient = dividend / divisor;
